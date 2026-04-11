@@ -22,7 +22,7 @@ export default function Home() {
                 </Button>
               </Link>
               <p className="text-sm text-muted-foreground">
-                Free forever. No credit card required
+                Free forever. No credit card required.
               </p>
             </div>
           </div>
