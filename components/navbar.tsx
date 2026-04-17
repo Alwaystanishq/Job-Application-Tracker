@@ -49,7 +49,6 @@ export default function Navbar() {
                     </Avatar>
                   </Button>
                 </DropdownMenuTrigger>
-
                 <DropdownMenuContent className="w-56" align="end">
                   <DropdownMenuLabel className="font-normal">
                     <div className="flex flex-col space-y-1">
